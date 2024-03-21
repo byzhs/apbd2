@@ -1,0 +1,14 @@
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\APBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\APBD.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\APBD.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\APBD.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\APBD\APBD\bin\Debug\net8.0\APBD.exe
+C:\Users\Lenovo\RiderProjects\APBD\APBD\bin\Debug\net8.0\APBD.deps.json
+C:\Users\Lenovo\RiderProjects\APBD\APBD\bin\Debug\net8.0\APBD.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\APBD\APBD\bin\Debug\net8.0\APBD.dll
+C:\Users\Lenovo\RiderProjects\APBD\APBD\bin\Debug\net8.0\APBD.pdb
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\APBD.dll
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\refint\APBD.dll
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\APBD.pdb
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\APBD.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\APBD\APBD\obj\Debug\net8.0\ref\APBD.dll
